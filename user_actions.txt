@@ -1,0 +1,17 @@
+13:51:00, Level 1 :pick up mask
+13:51:06, Level 1 :move right
+13:51:15, Level 2 :pick up id
+13:51:25, Level 2 :move forward
+13:51:40, Level 3 :turn on the lightswitch
+13:51:53, Level 3 :get the keys
+13:52:50, Level 3 :move left
+13:53:00, Level 4 :view inventory
+13:53:05, Level 4 :put mask on
+13:53:13, Level 4 :move right
+13:53:24, Level 5 :view inventory
+13:53:28, Level 5 :use the keys to start the car
+13:53:36, Level 6 :view inventory
+13:53:58, Level 6 :show id to the security
+13:54:05, Level 6 :move forward
+13:54:13, Level 7 :go to class number 2
+13:54:13, Level 7 :WON THE GAME
